@@ -1,0 +1,14 @@
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+
+.animate-marquee {
+  display: inline-flex;
+  white-space: nowrap;
+  animation: marquee 18s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused; /* ផ្អាកពេលដាក់ Mouse លើ */
+}
