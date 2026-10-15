@@ -42,7 +42,7 @@ const AboutPage = () => {
         <div className="max-w-7xl mx-auto px-6 py-16 md:py-24">
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-              អំពី សាបហាប់
+              Sale_Shop
             </h1>
             <p className="text-lg md:text-xl text-white/90 mb-8">
               យើងជាវេទិកាទិញទំនិញអនឡាញឈានមុខគេនៅកម្ពុជា ដែលផ្តល់ជូននូវផលិតផលគុណភាពខ្ពស់ក្នុងតម្លៃសមរម្យ។ បេសកកម្មរបស់យើងគឺធ្វើឱ្យការទិញទំនិញអនឡាញមានភាពងាយស្រួល សុវត្ថិភាព និងរីករាយសម្រាប់មនុស្សគ្រប់គ្នា។
